@@ -62,7 +62,7 @@ On each other box, merge into `~/.config/opencode/opencode.json`:
       "models": {
         "qwen": {
           "name": "Qwen3.8-Flash-Next Uncensored (int4 hybrid)",
-          "limit": { "context": 262144, "output": 32768 }
+          "limit": { "context": 500000, "output": 32768 }
         }
       }
     }
